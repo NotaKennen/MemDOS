@@ -1,0 +1,7 @@
+/.archive
+/.vscode
+/build
+/bx_enh_dbg.ini
+bochs_config
+design.txt
+out.txt
